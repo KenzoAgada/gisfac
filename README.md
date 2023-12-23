@@ -1,5 +1,9 @@
 # GISFAC (Generate Issue Summary For Audit Contest)
 
+**Update**: this repo is not maintained at the moment. *ustas* recreated the algo in JS and looks like he's up for maintaining it. [https://github.com/ustas-eth/issue-calculatooor](https://github.com/ustas-eth/issue-calculatooor)
+
+---
+
 Generate a summary .csv of all the issues in the judging repo.
 
 Used for easier QAing of audit contests like code4rena. And possibly for reward calculation.
